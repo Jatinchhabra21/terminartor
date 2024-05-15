@@ -39,7 +39,7 @@ terminartor -p /path/to/img -s 25
 
 | Before                      | After                      |
 | --------------------------- | -------------------------- |
-| !image[./images/before.png] | !image[./images/after.png] |
+| ![image][./images/before.png] | ![image][./images/after.png] |
 
 ### Contributing
 
