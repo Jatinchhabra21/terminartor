@@ -36,10 +36,7 @@ terminartor -p /path/to/img -s 25
 ```
 
 #### Output
-
-| Before                      | After                      |
-| --------------------------- | -------------------------- |
-| ![image before](./images/before.png) | ![image after](./images/after.png) |
+![image after](./images/after.png) |
 
 ### Contributing
 
