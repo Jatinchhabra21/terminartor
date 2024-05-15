@@ -4,10 +4,15 @@ Terminartor is a command line tool designed to generate terminal art from images
 
 ### Installation
 
+#### Linux/MacOS
+
 - Download the binary file from release page.
-- Add directory in which binary is present to $PATH variable
-  OR
-- Move binary to `/usr/local/bin` (for linux)
+- Move binary to `/usr/local/bin` or equivalent path which stores user programs (programs not managed by) (for linux/macOS users)
+  distributions.
+
+#### Windows
+
+Windows users may want to convert binary file to executeables (.exe) and add it to a directory which is part of **path** environment variable.
 
 ### Usage
 
