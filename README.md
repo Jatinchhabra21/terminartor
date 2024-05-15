@@ -35,6 +35,12 @@ terminartor -h
 terminartor -p /path/to/img -s 25
 ```
 
+#### Output
+
+| Before                      | After                      |
+| --------------------------- | -------------------------- |
+| !image[./images/before.png] | !image[./images/after.png] |
+
 ### Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
